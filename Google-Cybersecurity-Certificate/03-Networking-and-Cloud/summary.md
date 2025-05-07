@@ -1,5 +1,6 @@
 ## Course 3: Networking and Cloud
 - TCP/IP, OSI models![13 fields within the header of an IPv4 packet](https://github.com/user-attachments/assets/965e148d-3b18-493e-8499-b863ed713bec)
+![The OSI model](https://github.com/user-attachments/assets/b61c974f-2f88-48a3-a047-a1c91d913ad0)
 
 - Network troubleshooting tools: ping, traceroute [Network hardening tools.xlsx](https://github.com/user-attachments/files/20075116/Network.hardening.tools.xlsx)
 
