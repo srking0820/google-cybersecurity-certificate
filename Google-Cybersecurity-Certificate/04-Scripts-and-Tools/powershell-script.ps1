@@ -1,0 +1,1 @@
+Write-Output 'Sample PowerShell script for log analysis'
