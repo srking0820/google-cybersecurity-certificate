@@ -1,4 +1,4 @@
-[Linux_Fundamentals_and_File_Permissions.md](https://github.com/user-attachments/files/20219042/Linux_Fundamentals_and_File_Permissions.md)## Course 2: Managing Security Risks
+## Course 2: Managing Security Risks
 - Security controls and frameworks
 Security controls: Safeguards designed to reduce specific security risks
 
