@@ -37,5 +37,5 @@ The counterattack does not escalate the situation.
 The counterattack effects can be reversed.
 
 Organizations typically do not counterattack because the above scenarios and parameters are hard to measure. There is a lot of uncertainty dictating what is and is not lawful, and at times, negative outcomes are very difficult to control. Counterattack actions generally lead to a worse outcome, especially when you are not an experienced professional in the field. 
-- 
-- [Coursera Foundation Of Cybersecurity.pdf]
+- ![image](https://github.com/user-attachments/assets/a4fc5972-b537-484c-8451-235582bd38fa)
+
