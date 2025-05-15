@@ -38,6 +38,7 @@ Security posture refers to an organization's ability to manage its defense of cr
 
 - 
 - Linux fundamentals and file permissions
+- 
 [Uploading Linux_Fundamentals_and_F# 📁 Linux Fundamentals & File Permissions
 
 ## 📌 Overview
