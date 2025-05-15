@@ -1,12 +1,16 @@
 ## Course 1: Foundations of Cybersecurity
 - Overview of cybersecurity roles
+- ![image](https://github.com/user-attachments/assets/b8e4c7c9-809a-4f5f-86a5-308063ddede3)
+- ![image](https://github.com/user-attachments/assets/45544e62-b2c3-44c5-8fd3-f9f2d231e5bc)
+
+
 - [Professional Statement (cybersecurity).docx]
 - CIA Triad: Confidentiality, Integrity, Availability
 * The CIA triad is a foundational model that helps inform how organizations consider risk when setting up systems and security policies. CIA stands for confidentiality, integrity, and availability
 
-* Confidentiality - only authorized users can access specific assets or data. For example, strict access controls that define who should and should not have access to data, must be put in place to ensure confidential data remains safe.
+* Confidentiality—Only authorized users can access specific assets or data. To ensure confidential data remains safe, strict access controls that define who should and should not have access to data must be put in place.
 
-* Integrity - the data is correct, authentic, and reliable. To maintain integrity, security professionals can use a form of data protection like encryption to safeguard data from being tampered with.
+* Integrity—the data is correct, authentic, and reliable. To maintain integrity, security professionals can safeguard data from being tampered with using a form of data protection like encryption.
 
 * Availability - data is accessible to those who are authorized to access it.
 
