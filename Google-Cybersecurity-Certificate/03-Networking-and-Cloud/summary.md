@@ -105,5 +105,8 @@ Both the TCP/IP and OSI models are conceptual models that help network professio
 - Network troubleshooting tools: ping, traceroute
 - [Network hardening tools.xlsx](https://github.com/user-attachments/files/20075116/Network.hardening.tools.xlsx)
 
+  [Network security hardening diagram](https://github.com/user-attachments/assets/5398fe98-4ff2-4d26-b918-03d694ed1f34)
+
+
 - Intro to cloud computing and shared responsibility!
 - [New Risks from 2017 to 2021 (OWASP common attack types)](https://github.com/user-attachments/assets/458560d3-9a9c-4efc-b4e5-48c7f6fb499b)
