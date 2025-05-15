@@ -9,6 +9,7 @@ Security frameworks: Guidelines used for building plans to help mitigate risk an
 Security governance: Practices that help support, define, and direct the security efforts of an organization
 
 Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
+
 Example of a control document:
 [Controls assessment.docx](https://github.com/user-attachments/files/20218758/Controls.assessment.docx)
   
